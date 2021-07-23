@@ -1,0 +1,30 @@
+body{
+    font-family: "Glegoo";
+    background-color: rgb(43, 74, 100);
+    background: url(../images/background.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.quote-row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+}
+.box{
+    background-color: #eee;
+    padding: 20px;
+    min-height: 220px;
+    font-size: 23px;
+    font-weight: bold;
+    text-align: center;
+}
+#btn{
+    background-color: rgb(43, 74, 100);
+    border: #000;
+    color: #eee;
+}
+
+    
